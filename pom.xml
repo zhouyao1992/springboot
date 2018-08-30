@@ -11,6 +11,7 @@
 
   <modules>
     <module>redis-session-share</module>
+    <module>hibernate-validation</module>
 
 
   </modules>
