@@ -12,7 +12,7 @@ public class HibernateValidatorException extends RuntimeException{
     private String errorCode;
 
     /**
-     * 错误消息
+     * 错误信息
      */
     private String message;
 
