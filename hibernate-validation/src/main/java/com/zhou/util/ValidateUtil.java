@@ -1,6 +1,5 @@
 package com.zhou.util;
 
-import com.zhou.exception.HibernateValidatorException;
 import com.zhou.vo.DataVo;
 import org.hibernate.validator.HibernateValidator;
 
