@@ -42,7 +42,7 @@ public class ValidateUtil {
 
         DataVo vo = new DataVo();
         vo.setId(11111111L);
-        vo.setName("哈哈哈哈哈哈哈");
+        vo.setName("哈哈哈哈哈哈");
         vo.setEmail("412729287@qq.com");
         vo.setAge(21);
         vo.setPhone("15972392222");
